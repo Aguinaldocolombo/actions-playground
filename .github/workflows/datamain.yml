@@ -22,7 +22,7 @@ jobs:
         
   imprime_macos:
     name: Imprime data atual - Macos
-    runs-on: macos-lastet
+    runs-on: macos-latest
     
     steps:
       - name: Imprime data atual
